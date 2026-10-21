@@ -1,4 +1,4 @@
-# Campus Rideshare
+# UniRide
 
 Students offer empty seats or post ride requests, join each other's rides, and coordinate in a chat
 room for each ride. Login is required, with `.edu` emails only.
