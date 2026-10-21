@@ -81,6 +81,7 @@ function LoginForm() {
           <span className="font-medium text-foreground">{email}</span>.{" "}
           {sent === "reset" ? "Click it to choose a new password." : "Click it to finish signing up."}
         </p>
+        <p className="mt-2 text-xs text-muted">Not there after a minute? Check your spam or junk folder.</p>
         <button className="mt-4 text-sm text-accent hover:underline" onClick={() => { setSent(null); switchMode("signin"); }}>
           Back to log in
         </button>
