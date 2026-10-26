@@ -59,7 +59,7 @@ Buy a domain (Vercel, Namecheap, Cloudflare…), then in Vercel **Project → Se
 
 Gmail can send about 500 emails a day for free, and Supabase can send through it. No domain needed.
 
-1. **Make a Gmail account for the app** (e.g. `minesrides.app@gmail.com`), not your personal one.
+1. **Make a Gmail account for the app** (e.g. `uniride.app@gmail.com`), not your personal one.
 2. In that account, turn on **2-Step Verification**: https://myaccount.google.com/security
 3. Create an **app password**: https://myaccount.google.com/apppasswords. Name it "Supabase" and copy the 16-character password.
 4. Supabase → **Authentication → Emails → SMTP Settings** → enable **Custom SMTP**:
